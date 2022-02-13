@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/91189e6a925683868095d.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: " 🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ ALPHA 🛡️⎠\n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .alpha\n\n\n🖲️Thank You For Using ⎝🛡️ ALPHA 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption:` Hello ! \n\n I am - ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️, \n\n\n 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 \n 🧚‍♀️ assistantn \n\n *◈❤️Welcome To❤️◈ \n\n🔮🔮🔮\n\n\n\n ◈Owner :-₳ⁿuʝα Su̶p̶ul̶s̶a̶r̶a̶ ✰ \n\n\n 🔮. *Connect from WhatsApp \n *http://wa.me/94741299310* \n\n 🔮. Connect from Telegram \n *t.me/Anujasupulsara* \n\n\n\n ₳ⁿuʝα Su̶p̶ul̶s̶a̶r̶a̶ ✰ \n 🤏😎`})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ \n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .alpha\n\n\n🖲️Thank You For Using ⎝🛡️ ALPHA 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: ` Hello ! \n\n I am - ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️, \n\n\n 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 \n 🧚‍♀️ assistantn \n\n *◈❤️Welcome To❤️◈ \n\n🔮🔮🔮\n\n\n\n ◈Owner :-₳ⁿuʝα Su̶p̶ul̶s̶a̶r̶a̶ ✰ \n\n\n 🔮. *Connect from WhatsApp \n *http://wa.me/94741299310* \n\n 🔮. Connect from Telegram \n *t.me/Anujasupulsara* \n\n\n\n ₳ⁿuʝα Su̶p̶ul̶s̶a̶r̶a̶ ✰ \n 🤏😎`})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
