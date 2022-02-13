@@ -30,7 +30,7 @@ Trex.addrex({pattern: 'up$', fromMe: true, desc: Lang.UPDATER_DESC}, (async (mes
         var degisiklikler = Lang.NEW_UPDATE;
         commits['all'].map(
             (commit) => {
-                degisiklikler += '⎝🛡️▷ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' ◁◁Pwoerd By ALpha Team▷▷\n';
+                degisiklikler += '⎝🛡️▷ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' ◁◁powered By ALpha Team▷▷\n';
             }
         );
         
