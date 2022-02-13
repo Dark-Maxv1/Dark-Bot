@@ -21,7 +21,7 @@ if (Config.WORKTYPE == 'public') {
         
 if (Config.BTN == 'btn') {
 
-Trex.addrex({pattern: 'alpha', fromMe: false}, (async (message, match) => {
+Trex.addrex({pattern: 'dark', fromMe: false}, (async (message, match) => {
 // T-REX LIST👿
         var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
 
@@ -41,7 +41,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -225,12 +225,11 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+          ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-         ⎝🛡️ ALPHA 🛡️⎠ 
+         ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ 
 ═════════════════════════
 🖲️ Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
@@ -294,9 +293,9 @@ Example : .covid Sri Lanka°
 🖲️ Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
 🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+➢ Description: °🖲️➢ ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  Download instagram videos.°
 🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+➢ Description: °🖲️➢☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ Download Facebook videos.°
 🖲️ Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
@@ -375,7 +374,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-                 ⎝🛡️ ALPHA 🛡️⎠
+                 ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ═════════════════════════
                   ♥ LOVE PACK ♥
                   
@@ -397,13 +396,13 @@ Example : .covid Sri Lanka°
 ➢ Description :  Send I need Girl friend message..
 ♥ Command : need bf
 ➢ Description :  Send i need Boy friend message..
-      ╔═⎝🛡️ ALPHA 🛡️⎠═╗
+      ╔═☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️═╗
        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid5"},
         {title: '⎝🛡️ FF PACK 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠  
+║         ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  
 ║         ║🖲️╚FF PACK╝🖲️║
 ║
 ╠═➢ 🖲️.ff9       ❴your text❵
@@ -508,7 +507,7 @@ Example : .covid Sri Lanka°
 ║
 ║▷Creator: HIRUSHA
 ║
-║   ⎝🛡️ ALPHA 🛡️⎠ 
+║  ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ╚═════════════════════╝
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
@@ -522,8 +521,8 @@ Example : .covid Sri Lanka°
 │  ◎Office Softwares type =.office   
 │  ◎Android Emulator Form Pc =.em
 │
-│         🖲️POWERD BY🖲️
-│        ⎝🛡️ ALPHA 🛡️⎠
+│       
+│        ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ╰──────────────
 
 `, rowId:"rowid20"},
@@ -545,21 +544,21 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid9"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
+        {title: 'ABOUT ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️', description:`▷▷▷▷▷▷\n\n\n
 🖲️ Developer : Achi Fernando (Achiya)
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🖲️ Bot             : ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
+🖲️ Sponcer Team : Alpha TEAM SRI LANKA
 🖲️ Develop language : Node js
 🖲️ Developer no : http://wa.me/+94720603183
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛", rows: rows}]
+       const sections = [{title: "☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ CMD 🖲️ PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: `☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ CMD 🖲️ PANEL. 📛`,
         sections: sections,
         listType: 1
        }
@@ -568,7 +567,7 @@ Example : .covid Sri Lanka°
     
     }));
         
-    Trex.addrex({pattern: 'alpha', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
+    Trex.addrex({pattern: 'dark', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
 // T-REX LIST
 
 var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
@@ -589,7 +588,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -773,12 +772,12 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+          ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
+
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-         ⎝🛡️ ALPHA 🛡️⎠ 
+         ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ═════════════════════════
 🖲️ Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
@@ -842,9 +841,9 @@ Example : .covid Sri Lanka°
 🖲️ Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
 🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+➢ Description: °🖲️➢☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  Download instagram videos.°
 🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+➢ Description: °🖲️➢☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  Download Facebook videos.°
 🖲️ Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
@@ -923,7 +922,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠ ', description:`▷▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-                 ⎝🛡️ ALPHA 🛡️⎠
+                 ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ═════════════════════════
                   ♥ LOVE PACK ♥
                   
@@ -946,13 +945,13 @@ Example : .covid Sri Lanka°
 ♥ Command : need bf
 ➢ Description :  Send i need Boy friend message..
 
-      ╔═⎝🛡️ ALPHA 🛡️⎠═╗
+      ╔═☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️═╗
        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '⎝🛡️ FF PACK 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠  
+║         ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  
 ║         ║🖲️╚FF PACK╝🖲️║
 ║
 ╠═➢ 🖲️.ff9       ❴your text❵
@@ -1057,7 +1056,7 @@ Example : .covid Sri Lanka°
 ║
 ║▷Creator: HIRUSHA
 ║
-║   ⎝🛡️ ALPHA 🛡️⎠ 
+║   ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ 
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠ ', description:`▷▷▷▷▷▷\n\n\n
@@ -1077,7 +1076,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠   
+║        ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  
 ║        ║🖲️╚APK STORE╝🖲️║
 ║
 ║    Coming Soon
@@ -1104,26 +1103,26 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
+        {title: '⎝🛡️ABOUT ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ ', description: `▷▷▷▷▷▷\n\n\n
 🖲️ Developer : Achiya
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🖲️ Bot             : ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
+🖲️ Sponcer Team : Alpha TEAM SRI LANKA
 🖲️ Develop language : Node js
 🖲️ Developer no : http://wa.me/+94720603183
 `, rowId:"rowid9"},
         {title: '⎝🛡️ ADMIN PANEL 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
-⎝🛡️ ALPHA 🛡️⎠\n\n🖲️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🖲️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🖲️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🖲️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🖲️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🖲️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🖲️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🖲️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🖲️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ⎝🛡️ ALPHA 🛡️⎠.\n\n🖲️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🖲️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🖲️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🖲️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🖲️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🖲️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🖲️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🖲️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🖲️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🖲️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🖲️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🖲️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🖲️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🖲️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🖲️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🖲️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🖲️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🖲️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🖲️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🖲️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🖲️ COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🖲️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🖲️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🖲️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🖲️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🖲️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🖲️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🖲️ Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🖲️ Command: .public ▷ Description: set bot as public\n\n 🖲️ Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n⎝🛡️ ALPHA 🛡️⎠*
+☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️\n\n🖲️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🖲️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🖲️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🖲️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🖲️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🖲️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🖲️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🖲️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🖲️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️.\n\n🖲️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🖲️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🖲️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🖲️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🖲️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🖲️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🖲️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🖲️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🖲️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🖲️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🖲️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🖲️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🖲️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🖲️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🖲️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🖲️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🖲️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🖲️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🖲️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🖲️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🖲️ COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🖲️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🖲️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🖲️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🖲️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🖲️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🖲️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🖲️ Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🖲️ Command: .public ▷ Description: set bot as public\n\n 🖲️ Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️*
 `, rowId:"rowid10"},
         {title: '⎝🛡️ Work Type PUBLIC 🛡️⎠', description: "▷▷▷▷▷▷\n\n\n Type .public to public mode ▷", rowId:"rowid9"},
         {title: '⎝🛡️ Work Type PRIVATE🛡️⎠', description:"▷▷▷▷▷▷\n\n\n Type .private to private mode ▷", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛", rows: rows}]
+       const sections = [{title: "☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ CMD 🖲️ PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: `☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ CMD 🖲️ PANEL. 📛`,
         sections: sections,
         listType: 1
        }
@@ -1139,7 +1138,7 @@ else if (Config.WORKTYPE == 'private') {
         
 if (Config.BTN == 'btn') {
         
-Trex.addrex({pattern: 'alpha', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
+Trex.addrex({pattern: 'dark', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
 // T-REX LIST
 
 var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
@@ -1160,7 +1159,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠', description: `▷▷▷▷▷~\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -1344,12 +1343,12 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+          ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
+
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-         ⎝🛡️ ALPHA 🛡️⎠ 
+         ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ═════════════════════════
 🖲️ Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
@@ -1413,9 +1412,9 @@ Example : .covid Sri Lanka°
 🖲️ Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
 🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+➢ Description: °🖲️➢☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  Download instagram videos.°
 🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+➢ Description: °🖲️➢☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  Download Facebook videos.°
 🖲️ Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
@@ -1494,7 +1493,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠ ', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-                 ⎝🛡️ ALPHA 🛡️⎠
+                 ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ═════════════════════════
                   ♥ LOVE PACK ♥
                   
@@ -1516,13 +1515,13 @@ Example : .covid Sri Lanka°
 ➢ Description :  Send I need Girl friend message..
 ♥ Command : need bf
 ➢ Description :  Send i need Boy friend message..
-      ╔═⎝🛡️ ALPHA 🛡️⎠═╗
+      ╔═☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️⎠═╗
        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '⎝🛡️ FF PACK 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠  
+║        ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  
 ║         ║🖲️╚FF PACK╝🖲️║
 ║
 ╠═➢ 🖲️.ff9       ❴your text❵
@@ -1627,7 +1626,7 @@ Example : .covid Sri Lanka°
 ║
 ║▷Creator: HIRUSHA
 ║
-║   ⎝🛡️ ALPHA 🛡️⎠ 
+║   ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ 
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
@@ -1642,17 +1641,17 @@ Example : .covid Sri Lanka°
 │  ◎Android Emulator Form Pc =.em
 │
 │         🖲️POWERD BY🖲️
-│        ⎝🛡️ ALPHA 🛡️⎠
+│        ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 ╰──────────────
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠   
+║         ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️   
 ║        ║🖲️╚APK STORE╝🖲️║
 ║
 ║    Coming Soon
 ║
-║ ⎝🛡️ ALPHA 🛡️⎠   
+║ ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️  
 ╚═════════════════════╝
 `, rowId:"rowid20"},
 {title: '⎝🛡️ DOWNLOADER 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
@@ -1673,26 +1672,26 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
+        {title: '⎝🛡️ABOUT ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️', description: `▷▷▷▷▷▷\n\n\n
 🖲️ Developer : Achi Fernando (Achiya)
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🖲️ Bot             : ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️
 🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
+🖲️ Sponcer Team : Alpha TEAM SRI LANKA
 🖲️ Develop language : Node js
 🖲️ Developer no : http://wa.me/+94720603183
 `, rowId:"rowid9"},
         {title: '⎝🛡️ ADMIN PANEL 🛡️', description: `▷▷▷▷▷▷\n\n\n
-⎝🛡️ ALPHA 🛡️⎠\n\n🖲️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🖲️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🖲️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🖲️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🖲️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🖲️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🖲️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🖲️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🖲️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ⎝🛡️ ALPHA 🛡️⎠.\n\n🖲️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🖲️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🖲️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🖲️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🖲️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🖲️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🖲️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🖲️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🖲️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🖲️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🖲️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🖲️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🖲️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🖲️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🖲️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🖲️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🖲️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🖲️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🖲️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🖲️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🖲️ COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🖲️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🖲️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🖲️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🖲️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🖲️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🖲️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🖲️ Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🖲️ Command: .public ▷ Description: set bot as public\n\n 🖲️ Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n⎝🛡️ ALPHA 🛡️⎠*
+☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️\n\n🖲️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🖲️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🖲️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🖲️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🖲️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🖲️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🖲️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🖲️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🖲️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️.\n\n🖲️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🖲️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🖲️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🖲️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🖲️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🖲️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🖲️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🖲️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🖲️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🖲️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🖲️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🖲️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🖲️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🖲️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🖲️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🖲️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🖲️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🖲️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🖲️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🖲️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🖲️ COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🖲️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🖲️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🖲️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🖲️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🖲️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🖲️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🖲️ Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🖲️ Command: .public ▷ Description: set bot as public\n\n 🖲️ Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️*
 `, rowId:"rowid10"},
         {title: '⎝🛡️ Work Type PUBLIC 🛡️⎠', description: "▷▷▷▷▷▷\n\n\nType .public to public mode", rowId:"rowid9"},
         {title: '⎝🛡️ Work Type PRIVATE 🛡️⎠', description:"▷▷▷▷▷▷\n\n\nType .private to private mode", rowId:"rowid2"}
        ]
        
-       const sections = [{title: " ⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL.📛", rows: rows}]
+       const sections = [{title: " ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ CMD 🖲️ PANEL.📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: ` ⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: ` ☠️𝘿𝘼𝙍𝙆 𝘽𝙊𝙏☠️ CMD 🖲️ PANEL. 📛`,
         sections: sections,
         listType: 1
        }
